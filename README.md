@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=seyoung&fontAlignY=40&fontSize=100&descAlignY=65&animation=twinkling)
 <br />
+<!--
 ### Hi there 👋
-
+-->
 <!--
 **kimbird0/kimbird0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center" display="inline-block">
-    🔭 Main Stack 🔭 <br>
+    🔭 Main Stack 🔭 <br> <br>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
