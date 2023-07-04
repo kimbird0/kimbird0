@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=seyoung&fontAlignY=40&fontSize=100&descAlignY=65&animation=twinkling)
+<br />
 ### Hi there 👋
 
 <!--
