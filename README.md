@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 
 -->
-
+https://green-syringa-733.notion.site/7d55184ee20949c28cd38c0e604bd99c?v=0d88157f7d174b73a086d81ff671486a&pvs=4
 <p align="center" display="inline-block">
     💡 Main Stack 💡 <br> <br>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
