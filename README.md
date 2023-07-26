@@ -36,5 +36,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center">
     💡 Notion link : https://green-syringa-733.notion.site/7d55184ee20949c28cd38c0e604bd99c?v=0d88157f7d174b73a086d81ff671486a&pvs=4
+</p>
